@@ -17,8 +17,8 @@ I showed this dashboard in an exam, with the support of the following slides: [W
 ## Data provided
 The data was provided to me by a data engineer and did not need to be corrected.
 
-- Most of the data came from the UN open data. The water service availability and death toll was found by the [Water, Sanitation and Hygiene project page](https://www.who.int/health-topics/water-sanitation-and-hygiene-wash#tab=tab_1) from the World Health Organization.
-- The world population per country was taken from the UN [Monthly Bulletin and Statistics Online](https://unstats.un.org/unsd/mbs/app/DataSearchTable.aspx).
-- The political Stability Index is published by [the World Bank Open Data](https://data.worldbank.org/).
+- The **water service availability and death toll** was found by the [Water, Sanitation and Hygiene project page](https://www.who.int/health-topics/water-sanitation-and-hygiene-wash#tab=tab_1) from the World Health Organization.
+- The **world population** per country was taken from the UN [Monthly Bulletin and Statistics Online](https://unstats.un.org/unsd/mbs/app/DataSearchTable.aspx).
+- The **political Stability Index** is published by [the World Bank Open Data](https://data.worldbank.org/).
 
 New variables needed to be calculated, and new links between some tables had to be created.
